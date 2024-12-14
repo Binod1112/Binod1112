@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there! I'm Binod! 
 
-<!--
-**Binod1112/Binod1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🎓 **About Me:**  
+  I'm a 20-year-old Civil Engineering student currently in my 5th semester (2024 Dec).  
+  I have a passion for bridging the gap between traditional engineering and modern technology. 🚧✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **Hobbies & Interests:**  
+  - Reading books 📖  
+  - Coding and exploring new technologies 💻  
+  - Constantly learning and staying curious 🔍  
+
+- 🌱 **Currently Learning:**  
+  - Coding and programming skills (improving every day!)  
+  - Latest tech trends and applications in engineering  
+
+- 💬 **Ask me about:**  
+  Civil Engineering topics, coding as a beginner, or anything tech-related!  
+
+- 📫 **Connect with me:**  
+  [My info]  
+
+---
+
+### 🛠️ Tools & Technologies  
+Here are some tools and technologies I've been exploring:  
+
+- **Programming Languages:** Python, C++  
+- **Engineering Software:** AutoCAD, Civil3D
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and connect.  
+Let's learn and grow together! 🚀 
