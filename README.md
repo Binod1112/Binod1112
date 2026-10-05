@@ -18,9 +18,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - 💬 **Ask me about:**  
   Civil Engineering topics, coding as a beginner, or anything tech-related!  
 
-- 📫 **Connect with me:**  
-  [My info]  
-
 ---
 
 ### 🛠️ Tools & Technologies  
